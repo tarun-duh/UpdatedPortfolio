@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+  background-color: #0F1624;
+  color: #fff;
+  font-family: 'Space Grotesk', sans-serif;
+}
+
+@layer base {
+  body {
+    @apply !scrollbar-thin !scrollbar-track-transparent !scrollbar-thumb-white !scrollbar-thumb-rounded-full;
+  }
+}
