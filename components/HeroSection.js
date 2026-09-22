@@ -14,9 +14,7 @@ const HeroSection = () => {
         <h1 className="text-4xl sm:text-5xl font-bold text-white">
           TARUN SINGH
         </h1>
-        <h1 className="text-4xl sm:text-5xl font-bold text-white">
-          I LOVE TO LEARN & CREATE STUFF.
-        </h1>
+
         <p className="text-base sm:text-[19px] text-gray-300 w-10/12 tracking-wide">
           Aspiring Data Analyst with a strong foundation in Excel, SQL, Python,
           Power BI, and data visualization. Passionate about transforming raw

@@ -36,26 +36,13 @@ const Contact = () => {
         >
           <BsGithub />
         </a>
-        <a
-          target="_blank"
-          href="https://www.upwork.com/freelancers/~01dfd74b07d71ad171"
-          className="hover:scale-150 duration-200"
-        >
-          <SiUpwork />
-        </a>
+
         <a
           href="https://www.linkedin.com/in/tarun-duh/"
           target="_blank"
           className="hover:scale-150 duration-200"
         >
           <BsLinkedin />
-        </a>
-        <a
-          target="_blank"
-          href="https://dev.to/tarun_duh"
-          className="hover:scale-150 duration-200"
-        >
-          <FaDev />
         </a>
       </div>
       <div className="h-[0.5px] w-1/2 sm:w-1/5 bg-white mx-auto"></div>
